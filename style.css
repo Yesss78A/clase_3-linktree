@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+article{
+    background-color: #1f1f1f;
+    color: white;
+    text-align: center;
+    border-radius: 5%;
+    width: 300px;
+    margin: 20% auto;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+img{
+    width: 100px ;
+    border-radius: 50%;
+}
+
+button{
+    display: block;
+    margin: 12px auto;
+    color: white;
+    width: 200px;
+    height: 30px;
+    border-radius: 6px;
+    background-color: #333;
+    border: none;
+}
