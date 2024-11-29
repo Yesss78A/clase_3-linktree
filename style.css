@@ -11,6 +11,11 @@ article{
     margin: 20% auto;
     overflow: hidden;
     padding-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    color: #267f14;
 }
 
 img{
